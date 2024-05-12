@@ -42,8 +42,8 @@ class DatabaseSeeder extends Seeder
             'is_admin' => true,
         ]);
         User::factory()->create([
-            'name' => 'Arif Budiman Arrosyid',
-            'email' => 'arifbudimanarrosyid@gmail.com',
+            'name' => 'Dianitasya Ananda Masta',
+            'email' => 'dianitasyanandamasta@gmail.com',
             'is_admin' => true,
         ]);
 
